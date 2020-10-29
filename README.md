@@ -9,3 +9,4 @@ register a new account with a username that already exists (in the text file).
 
 The program ends when you have succesfully registered at least one account,
 and logged in to one of the accounts you created. A welcome message appears
+"""
